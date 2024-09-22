@@ -77,7 +77,7 @@ public class Fadhilaaa extends javax.swing.JFrame {
                 jTextField2ActionPerformed(evt);
             }
         });
-        getContentPane().add(jTextField2, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 290, 180, -1));
+        getContentPane().add(jTextField2, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 290, 190, -1));
 
         jTextField3.setText("KEC. GONDANG, KAB. NGANJUK");
         jTextField3.addActionListener(new java.awt.event.ActionListener() {
@@ -93,7 +93,7 @@ public class Fadhilaaa extends javax.swing.JFrame {
                 jTextField4ActionPerformed(evt);
             }
         });
-        getContentPane().add(jTextField4, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 350, 180, -1));
+        getContentPane().add(jTextField4, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 350, 190, -1));
 
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/kelompokenam/FOTO/Dark minimalistic abstract precambrian.jpeg"))); // NOI18N
         jLabel1.setText("jLabel1");
