@@ -45,7 +45,7 @@ public class HAKIMGANTENG extends javax.swing.JFrame {
         jLabel3.setText("LINK GIT    :");
         getContentPane().add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 440, -1, -1));
 
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/kelompokenam/FOTO/HAKIM.jpg"))); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/kelompokenam/FOTO/ilham.jpg"))); // NOI18N
         getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 70, -1, -1));
 
         jLabel4.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
@@ -71,7 +71,7 @@ public class HAKIMGANTENG extends javax.swing.JFrame {
         });
         getContentPane().add(jTextField1, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 440, -1, -1));
 
-        jTextField2.setText("AHMAD LUQMAN HAKIM");
+        jTextField2.setText("ILHAM ADITYA ALFARIZI");
         jTextField2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jTextField2ActionPerformed(evt);
@@ -79,7 +79,7 @@ public class HAKIMGANTENG extends javax.swing.JFrame {
         });
         getContentPane().add(jTextField2, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 290, 180, -1));
 
-        jTextField3.setText("KEC,REJOSO .KAB,NGANJUK");
+        jTextField3.setText("NGRONGGOT,NGANJUK");
         jTextField3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jTextField3ActionPerformed(evt);
@@ -87,7 +87,7 @@ public class HAKIMGANTENG extends javax.swing.JFrame {
         });
         getContentPane().add(jTextField3, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 320, -1, -1));
 
-        jTextField4.setText("202357201016");
+        jTextField4.setText("202357201001");
         jTextField4.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jTextField4ActionPerformed(evt);
