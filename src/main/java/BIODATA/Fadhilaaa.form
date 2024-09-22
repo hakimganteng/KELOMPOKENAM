@@ -44,7 +44,7 @@
     <Component class="javax.swing.JLabel" name="jLabel2">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="2" name="C:\Users\FADHILA\Documents\SI &amp; Fadhila\WhatsApp Image 2024-09-22 at 15.29.07_400cb572.jpg"/>
+          <Image iconType="3" name="/com/mycompany/kelompokenam/FOTO/WhatsApp Image 2024-09-22 at 15.29.07_400cb572.jpg"/>
         </Property>
       </Properties>
       <Constraints>
