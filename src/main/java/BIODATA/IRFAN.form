@@ -44,12 +44,12 @@
     <Component class="javax.swing.JLabel" name="jLabel2">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/kelompokenam/FOTO/HAKIM.jpg"/>
+          <Image iconType="3" name="/com/mycompany/kelompokenam/FOTO/Gambar WhatsApp 2024-09-17 pukul 15.50.48_dc12e7ea.jpg"/>
         </Property>
       </Properties>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="160" y="110" width="-1" height="120"/>
+          <AbsoluteConstraints x="160" y="50" width="-1" height="190"/>
         </Constraint>
       </Constraints>
     </Component>
@@ -103,7 +103,7 @@
     </Component>
     <Component class="javax.swing.JTextField" name="jTextField1">
       <Properties>
-        <Property name="text" type="java.lang.String" value="https://github.com/hakimganteng"/>
+        <Property name="text" type="java.lang.String" value="https://github.com/Irfanszzz"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextField1ActionPerformed"/>
@@ -116,7 +116,7 @@
     </Component>
     <Component class="javax.swing.JTextField" name="jTextField2">
       <Properties>
-        <Property name="text" type="java.lang.String" value="AHMAD LUQMAN HAKIM"/>
+        <Property name="text" type="java.lang.String" value="IRFAN FERDIANTO"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextField2ActionPerformed"/>
@@ -129,7 +129,7 @@
     </Component>
     <Component class="javax.swing.JTextField" name="jTextField3">
       <Properties>
-        <Property name="text" type="java.lang.String" value="KEC,REJOSO .KAB,NGANJUK"/>
+        <Property name="text" type="java.lang.String" value="KEC. PURWOASRI KAB.KEDIRI"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextField3ActionPerformed"/>
@@ -142,7 +142,7 @@
     </Component>
     <Component class="javax.swing.JTextField" name="jTextField4">
       <Properties>
-        <Property name="text" type="java.lang.String" value="202357201016"/>
+        <Property name="text" type="java.lang.String" value="202357201009"/>
       </Properties>
       <Events>
         <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="jTextField4ActionPerformed"/>

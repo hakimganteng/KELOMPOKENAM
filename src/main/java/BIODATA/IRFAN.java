@@ -8,12 +8,12 @@ package BIODATA;
  *
  * @author ahmad luqman hakim
  */
-public class HAKIMGANTENG extends javax.swing.JFrame {
+public class IRFAN extends javax.swing.JFrame {
 
     /**
      * Creates new form HAKIMGANTENG
      */
-    public HAKIMGANTENG() {
+    public IRFAN() {
         initComponents();
     }
 
@@ -45,8 +45,8 @@ public class HAKIMGANTENG extends javax.swing.JFrame {
         jLabel3.setText("LINK GIT    :");
         getContentPane().add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 440, -1, -1));
 
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/kelompokenam/FOTO/HAKIM.jpg"))); // NOI18N
-        getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 110, -1, 120));
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/kelompokenam/FOTO/Gambar WhatsApp 2024-09-17 pukul 15.50.48_dc12e7ea.jpg"))); // NOI18N
+        getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 50, -1, 190));
 
         jLabel4.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         jLabel4.setForeground(new java.awt.Color(255, 255, 255));
@@ -63,7 +63,7 @@ public class HAKIMGANTENG extends javax.swing.JFrame {
         jLabel6.setText("NIM           :");
         getContentPane().add(jLabel6, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 350, -1, -1));
 
-        jTextField1.setText("https://github.com/hakimganteng");
+        jTextField1.setText("https://github.com/Irfanszzz");
         jTextField1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jTextField1ActionPerformed(evt);
@@ -71,7 +71,7 @@ public class HAKIMGANTENG extends javax.swing.JFrame {
         });
         getContentPane().add(jTextField1, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 440, -1, -1));
 
-        jTextField2.setText("AHMAD LUQMAN HAKIM");
+        jTextField2.setText("IRFAN FERDIANTO");
         jTextField2.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jTextField2ActionPerformed(evt);
@@ -79,7 +79,7 @@ public class HAKIMGANTENG extends javax.swing.JFrame {
         });
         getContentPane().add(jTextField2, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 290, 180, -1));
 
-        jTextField3.setText("KEC,REJOSO .KAB,NGANJUK");
+        jTextField3.setText("KEC. PURWOASRI KAB.KEDIRI");
         jTextField3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jTextField3ActionPerformed(evt);
@@ -87,7 +87,7 @@ public class HAKIMGANTENG extends javax.swing.JFrame {
         });
         getContentPane().add(jTextField3, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 320, -1, -1));
 
-        jTextField4.setText("202357201016");
+        jTextField4.setText("202357201009");
         jTextField4.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jTextField4ActionPerformed(evt);
@@ -135,20 +135,21 @@ public class HAKIMGANTENG extends javax.swing.JFrame {
                 }
             }
         } catch (ClassNotFoundException ex) {
-            java.util.logging.Logger.getLogger(HAKIMGANTENG.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(IRFAN.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (InstantiationException ex) {
-            java.util.logging.Logger.getLogger(HAKIMGANTENG.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(IRFAN.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (IllegalAccessException ex) {
-            java.util.logging.Logger.getLogger(HAKIMGANTENG.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(IRFAN.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
-            java.util.logging.Logger.getLogger(HAKIMGANTENG.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
+            java.util.logging.Logger.getLogger(IRFAN.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
+        //</editor-fold>
         //</editor-fold>
 
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new HAKIMGANTENG().setVisible(true);
+                new IRFAN().setVisible(true);
             }
         });
     }
