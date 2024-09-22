@@ -45,7 +45,7 @@ public class Fadhilaaa extends javax.swing.JFrame {
         jLabel3.setText("LINK GIT    :");
         getContentPane().add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(60, 440, -1, -1));
 
-        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/kelompokenam/FOTO/WhatsApp Image 2024-09-22 at 15.29.07_400cb572.jpg"))); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/FOTO/WhatsApp Image 2024-09-22 at 15.29.07_400cb572.jpg"))); // NOI18N
         getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(160, 70, -1, -1));
 
         jLabel4.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
@@ -95,7 +95,7 @@ public class Fadhilaaa extends javax.swing.JFrame {
         });
         getContentPane().add(jTextField4, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 350, 190, -1));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/kelompokenam/FOTO/Dark minimalistic abstract precambrian.jpeg"))); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/FOTO/Dark minimalistic abstract precambrian.jpeg"))); // NOI18N
         jLabel1.setText("jLabel1");
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 430, 620));
 
