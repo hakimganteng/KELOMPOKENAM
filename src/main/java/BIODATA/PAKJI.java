@@ -69,7 +69,7 @@ public class PAKJI extends javax.swing.JFrame {
                 jTextField1ActionPerformed(evt);
             }
         });
-        getContentPane().add(jTextField1, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 430, -1, -1));
+        getContentPane().add(jTextField1, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 430, 200, -1));
 
         jTextField2.setText("MOCH FACHRU ROZI");
         jTextField2.addActionListener(new java.awt.event.ActionListener() {
