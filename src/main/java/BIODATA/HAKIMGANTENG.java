@@ -77,15 +77,15 @@ public class HAKIMGANTENG extends javax.swing.JFrame {
                 jTextField2ActionPerformed(evt);
             }
         });
-        getContentPane().add(jTextField2, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 290, 180, -1));
+        getContentPane().add(jTextField2, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 290, 190, -1));
 
-        jTextField3.setText("KEC.REJOSO .KAB,NGANJUK");
+        jTextField3.setText("KEC. REJOSO, KAB. NGANJUK");
         jTextField3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jTextField3ActionPerformed(evt);
             }
         });
-        getContentPane().add(jTextField3, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 320, 180, -1));
+        getContentPane().add(jTextField3, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 320, -1, -1));
 
         jTextField4.setText("202357201016");
         jTextField4.addActionListener(new java.awt.event.ActionListener() {
@@ -93,7 +93,7 @@ public class HAKIMGANTENG extends javax.swing.JFrame {
                 jTextField4ActionPerformed(evt);
             }
         });
-        getContentPane().add(jTextField4, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 350, 180, -1));
+        getContentPane().add(jTextField4, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 350, 190, -1));
 
         jLabel1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/kelompokenam/FOTO/Dark minimalistic abstract precambrian.jpeg"))); // NOI18N
         jLabel1.setText("jLabel1");
@@ -143,6 +143,9 @@ public class HAKIMGANTENG extends javax.swing.JFrame {
         } catch (javax.swing.UnsupportedLookAndFeelException ex) {
             java.util.logging.Logger.getLogger(HAKIMGANTENG.class.getName()).log(java.util.logging.Level.SEVERE, null, ex);
         }
+        //</editor-fold>
+        //</editor-fold>
+        //</editor-fold>
         //</editor-fold>
 
         /* Create and display the form */
