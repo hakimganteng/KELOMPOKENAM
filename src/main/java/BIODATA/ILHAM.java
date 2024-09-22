@@ -85,7 +85,7 @@ public class ILHAM extends javax.swing.JFrame {
                 jTextField3ActionPerformed(evt);
             }
         });
-        getContentPane().add(jTextField3, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 320, -1, -1));
+        getContentPane().add(jTextField3, new org.netbeans.lib.awtextra.AbsoluteConstraints(150, 320, 180, -1));
 
         jTextField4.setText("202357201001");
         jTextField4.addActionListener(new java.awt.event.ActionListener() {
