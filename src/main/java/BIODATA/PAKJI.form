@@ -44,12 +44,12 @@
     <Component class="javax.swing.JLabel" name="jLabel2">
       <Properties>
         <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-          <Image iconType="3" name="/com/mycompany/kelompokenam/FOTO/WhatsApp Image 2024-09-22 at 15.30.50_b9f0cad5.jpg"/>
+          <Image iconType="3" name="/com/mycompany/kelompokenam/FOTO/FAHRU.jpg"/>
         </Property>
       </Properties>
       <Constraints>
         <Constraint layoutClass="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout" value="org.netbeans.modules.form.compat2.layouts.DesignAbsoluteLayout$AbsoluteConstraintsDescription">
-          <AbsoluteConstraints x="170" y="90" width="-1" height="-1"/>
+          <AbsoluteConstraints x="170" y="90" width="-1" height="130"/>
         </Constraint>
       </Constraints>
     </Component>
